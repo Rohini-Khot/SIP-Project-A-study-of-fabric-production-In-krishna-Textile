@@ -1,6 +1,4 @@
-# SIP-Project- A study of fabric production in Krishna Textile
-
-# A Study on Fabric Production at Krishna Textile, Kadegaon
+# SIP-Project- A Study on Fabric Production at Krishna Textile, Kadegaon
 
 # Project Overview
 
